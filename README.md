@@ -1,1 +1,1 @@
-# Sustar-TryHackMe-Buteforce-script
+# Sustar-TryHackMe-Bruteforce-script
